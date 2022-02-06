@@ -1,5 +1,10 @@
 # [brofrain.github.io](https://brofrain.github.io/)
 
+## vue3-currency-converter
+
+- [demo](https://brofrain.github.io/vue3-currency-converter)
+- [source code](https://github.com/brofrain/vue3-currency-converter)
+
 ## vue3-puzzle
 
 - [demo](https://brofrain.github.io/vue3-puzzle)
